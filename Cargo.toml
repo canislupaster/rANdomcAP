@@ -1,0 +1,10 @@
+[package]
+name = "random_cap"
+version = "0.1.0"
+authors = ["Thomas-QM <thomas@engineeringvirtue.net>"]
+edition = "2018"
+
+[dependencies]
+autopilot = "0.1.8"
+multiinput = "0.0.14"
+rand = "0.5.5"
