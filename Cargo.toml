@@ -6,5 +6,6 @@ edition = "2018"
 
 [dependencies]
 autopilot = "0.1.8"
+systray = "0.3.0"
 multiinput = "0.0.14"
 rand = "0.5.5"
